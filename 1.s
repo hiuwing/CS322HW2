@@ -9,6 +9,7 @@ _f:
 
 ### This is where your code begins ...
         # I added sth. in the master
+#hiuwinghon add sht.
         movl    (%esi), %ebx
         addl    $4, %esi
         movl    (%esi), %ecx
