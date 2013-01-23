@@ -21,7 +21,7 @@ _f:
         imull   %ebx, %ecx
 
         addl    %ecx, %eax
-
+#hiuwing added sth.
 ### This is where your code ends ...
 
         popl    %ebx
