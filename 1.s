@@ -23,8 +23,8 @@ _f:
 
         addl    %ecx, %eax
 
-hiuwinghon one more time
-
+#hiuwinghon one more time
+#so confuse
 ### This is where your code ends ...
 
         popl    %ebx
